@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @audreyntep
 - 👀 I’m interested in data science, data analytics, data engineering and so on, it's all about data ;)
 - 🌱 I’m currently learning artificial intelligence.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 💞️ I’m looking to collaborate on machine learning and deep learning projects.
 
 <!---
 audreyntep/audreyntep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
